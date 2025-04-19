@@ -1,6 +1,6 @@
 # Colección de Notebooks para Procesamiento de Imágenes – IFTS24
 
-Este repositorio reúne diversos notebooks desarrollados en Google Colab, pensados para acompañar las actividades prácticas de la asignatura Procesamiento de Imágenes dictada en el IFTS24[cite: 2].
+Este repositorio reúne diversos notebooks desarrollados en Google Colab, pensados para acompañar las actividades prácticas de la asignatura Procesamiento de Imágenes dictada en el IFTS24.
 
 ## Contenido del Repositorio
 
@@ -15,12 +15,12 @@ En este espacio encontrarás distintas carpetas, cada una con notebooks enfocado
 
 Sigue estos pasos para trabajar con los notebooks:
 
-1.  **Selecciona un notebook**: Haz clic en el enlace del archivo que desees abrir desde el repositorio[cite: 2].
-2.  **Abrir con Colab**: Dentro de GitHub, ubica el botón “Open in Colab” y haz clic sobre él. Esto abrirá el archivo directamente en Colaboratory[cite: 2].
-3.  **Ejecutar código**: En Colab, puedes correr cada celda individualmente con el botón de “play” o presionando Shift + Enter, o bien ejecutar todo el notebook desde el menú Runtime → Run all[cite: 2].
-4.  **Probar y modificar**: Puedes modificar el código, probar diferentes configuraciones o añadir nuevas funcionalidades según lo necesites[cite: 2].
-5.  **Guardar tu trabajo**: Si deseas conservar tus ediciones, puedes guardar una copia en tu Google Drive a través del menú Archivo → Guardar una copia en Drive[cite: 2].
+1.  **Selecciona un notebook**: Haz clic en el enlace del archivo que desees abrir desde el repositorio.
+2.  **Abrir con Colab**: Dentro de GitHub, ubica el botón “Open in Colab” y haz clic sobre él. Esto abrirá el archivo directamente en Colaboratory.
+3.  **Ejecutar código**: En Colab, puedes correr cada celda individualmente con el botón de “play” o presionando Shift + Enter, o bien ejecutar todo el notebook desde el menú Runtime → Run all.
+4.  **Probar y modificar**: Puedes modificar el código, probar diferentes configuraciones o añadir nuevas funcionalidades según lo necesites.
+5.  **Guardar tu trabajo**: Si deseas conservar tus ediciones, puedes guardar una copia en tu Google Drive a través del menú Archivo → Guardar una copia en Drive.
 
 ## Importante
 
-Ante cualquier inconveniente con los notebook es bajo su responsabilidad, la persona que lo expone no se hace responsable por inconvenientes que pueda tener[cite: 2].
+Ante cualquier inconveniente con los notebook es bajo su responsabilidad, la persona que lo expone no se hace responsable por inconvenientes que pueda tener.
