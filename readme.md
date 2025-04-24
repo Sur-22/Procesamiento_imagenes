@@ -6,10 +6,11 @@ Este repositorio reúne diversos notebooks desarrollados en Google Colab, pensad
 
 En este espacio encontrarás distintas carpetas, cada una con notebooks enfocados en diferentes temas del procesamiento digital de imágenes. A continuación, se describen brevemente:
 
-* **[Color](Color/readme.md)**: Manipulación y análisis de los canales de color usando OpenCV.
-* **[Ejercicio de PDI](Ejercicio%20de%20PDI/readme.md)**: Práctica donde se combinan técnicas de color, muestreo, cuantización y segmentación.
-* **[Muestreo y Cuantizacion](Muestreo%20y%20Cuantizacion/readme.md)**: Exploración de la resolución espacial y tonal de las imágenes mediante técnicas de OpenCV.
-* **[Segmentacion simple](Segmentacion%20simple/readme.md)**: Aplicación de los conocimientos previos para aislar elementos de una imagen según su color.
+* **[001 - Caja oscura](Caja%20oscura/readme.md)**: Fundamentos ópticos de la imagen: cámara oscura y percepción visual.
+* **[002 - Color](Color/readme.md)**: Manipulación y análisis de los canales de color usando OpenCV.
+* **[003 - Muestreo y Cuantizacion](Muestreo%20y%20Cuantizacion/readme.md)**: Exploración de la resolución espacial y tonal de las imágenes mediante técnicas de OpenCV.
+* **[004 - Segmentacion simple](Segmentacion%20simple/readme.md)**: Aplicación de los conocimientos previos para aislar elementos de una imagen según su color.
+* **[005 - Ejercicio de PDI](Ejercicio%20de%20PDI/readme.md)**: Práctica donde se combinan técnicas de color, muestreo, cuantización y segmentación.
 
 ## ¿Cómo usar los Notebooks en Google Colab?
 
