@@ -1,34 +1,39 @@
-#   Laboratorio Integrador 3:  Análisis de Expresiones Faciales
+#   Análisis Facial con OpenCV y dlib
 
-Este cuaderno de Colab se centra en el análisis de expresiones faciales a través del procesamiento de imágenes. El objetivo principal es detectar y medir características clave del rostro, como los ojos y la boca, para cuantificar ciertos aspectos de la expresión facial.
+Este repositorio contiene dos cuadernos de Colab que exploran el análisis facial utilizando las bibliotecas OpenCV y dlib. Ambos cuadernos se centran en la detección de rostros y la identificación de puntos clave faciales, pero pueden diferir en su enfoque y funcionalidades.
 
-##   Objetivos
+##   Contenido de los Cuadernos
 
-El cuaderno busca implementar metodologías para:
+* **[017 - Lab Integrador 3.ipynb](017 - Lab Integrador 3.ipynb)**
 
-* **Detección de puntos clave faciales**: Localizar puntos específicos del rostro (ojos, boca).
-* **Cálculo de métricas de expresión**:  Calcular el Eye Aspect Ratio (EAR) y el Mouth Aspect Ratio (MAR) para analizar la apertura de los ojos y la boca.
+    * Este cuaderno se enfoca en el **análisis de expresiones faciales** a través del procesamiento de imágenes[cite: 52].
+    * Implementa metodologías para detectar puntos clave faciales (ojos, boca) y calcular métricas de expresión[cite: 52].
+    * Calcula el Eye Aspect Ratio (EAR) y el Mouth Aspect Ratio (MAR) para analizar la apertura de los ojos y la boca[cite: 52].
 
-##   Metodologías
+* **[017B - Deteccion de rostro y puntos faciales.ipynb](017B - Deteccion de rostro y puntos faciales.ipynb)**
 
-Se emplean técnicas de procesamiento de imágenes y visión computacional para:
+    * Este cuaderno se centra en la **detección de rostros y la identificación de puntos faciales** en videos[cite: 214].
+    * Puede incluir la detección de rostros en tiempo real y el seguimiento de puntos faciales a lo largo de un video[cite: 214].
+    * Utiliza dlib para la detección de puntos clave faciales, lo que permite una localización precisa de las características del rostro[cite: 214].
 
-1.  **Carga y preprocesamiento de imágenes**:  Preparar las imágenes para el análisis facial.
-2.  **Detección de rostros**: Localizar la región del rostro en la imagen.
-3.  **Extracción de puntos clave**: Identificar las localizaciones de los ojos y la boca.
-4.  **Cálculo de EAR y MAR**:  Medir la apertura de los ojos y la boca basándose en las coordenadas de los puntos clave.
-    * EAR: Útil para detectar parpadeo o ojos cerrados.
-    * MAR: Útil para analizar la apertura de la boca.
+##   Diferencias Clave
 
-##   Uso del Cuaderno
+Aunque ambos cuadernos trabajan con rostros, existen diferencias en su enfoque:
 
-1.  **Abrir el cuaderno en Colab**: Haz clic en el enlace `017 - Lab Integrador 3.ipynb` para abrirlo en Google Colab.
-2.  **Ejecutar las celdas**: Ejecuta las celdas del cuaderno en orden secuencial.
+* **Objetivo Principal**: 017 se centra en el análisis de expresiones (EAR, MAR), mientras que 017B puede enfocarse más en la detección y el seguimiento de puntos faciales[cite: 52, 214].
+* **Tipo de Entrada**: 017 Puede funcionar principalmente con imágenes fijas, mientras que el 017B está diseñado para funcionar con transmisiones de video.[cite: 52, 214].
+* **Funcionalidades**: 017B podría incluir funcionalidades adicionales como visualización de puntos faciales en video en tiempo real.
+
+##   Uso de los Cuadernos
+
+1.  **Abrir el cuaderno en Colab**: Haz clic en el enlace del cuaderno que deseas utilizar.
+2.  **Ejecutar las celdas**: Ejecuta las celdas del cuaderno en orden secuencial para seguir el flujo del código.
     * Puedes ejecutar cada celda individualmente presionando `Shift + Enter`.
-    * O puedes ejecutar todas las celdas a la vez desde el menú `Entorno de ejecución` seleccionando `Ejecutar todo`.
+    * O puedes ejecutar todas las celdas a la vez desde el menú "Entorno de ejecución" seleccionando "Ejecutar todo".
+3.  **Experimentar**: Modifica el código, cambia los parámetros y prueba con tus propias imágenes o videos para explorar el análisis facial.
 
 ##   Bibliotecas Utilizadas
 
-* **OpenCV (cv2)**: Biblioteca para procesamiento de imágenes y visión artificial[cite: 1, 2, 3].
-* **dlib**:  Herramienta para visión artificial (puede usarse para detección de puntos clave)[cite: 17].
-* **NumPy**:  Biblioteca para operaciones numéricas[cite: 6, 8, 12].
+* **OpenCV (cv2)**: Biblioteca para procesamiento de imágenes y video[cite: 52, 214].
+* **dlib**: Biblioteca para visión artificial, utilizada para la detección de puntos clave faciales[cite: 52, 214].
+* **NumPy**: Biblioteca para operaciones numéricas[cite: 52].
