@@ -4,7 +4,7 @@ Este repositorio contiene un cuaderno de Colab que explora los fundamentos del m
 
 ## Contenido del Cuaderno
 
-El cuaderno `Color.ipynb` cubre los siguientes temas esenciales:
+El cuaderno **[002 - Color](Color.ipynb)** `` cubre los siguientes temas esenciales:
 
 1.  **Introducción a los Espacios de Color**:
     * Describe los espacios de color RGB (Red, Green, Blue) y BGR (Blue, Green, Red), destacando sus diferencias y aplicaciones comunes.
