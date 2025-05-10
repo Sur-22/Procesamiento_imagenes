@@ -4,7 +4,7 @@ Este repositorio contiene un cuaderno de Colab que explora las propiedades funda
 
 ## Contenido del Cuaderno
 
-El cuaderno `008 - Open_CV_Propiedades.ipynb` cubre los siguientes temas:
+El cuaderno **[OpenCV Propiedades](008%20-%20Open_CV_Propiedades.ipynb)** cubre los siguientes temas:
 
 1.  **¿Qué es una imagen digital?**:
     * Explica cómo las imágenes digitales están compuestas por píxeles.

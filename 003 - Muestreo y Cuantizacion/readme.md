@@ -3,8 +3,8 @@
 Este repositorio contiene un cuaderno de Colab que demuestra los conceptos fundamentales de muestreo y cuantización en el procesamiento digital de imágenes.
 
 ## Contenido del Cuaderno
-
-El cuaderno `Muestreo_y_Cuantización.ipynb` explora las dos operaciones esenciales en el procesamiento digital de imágenes:
+*
+El cuaderno **[Muestreo y Cuantizacion](Muestreo_y_Cuantización.ipynb)** explora las dos operaciones esenciales en el procesamiento digital de imágenes:
 
 * **Muestreo espacial**:  Convierte una imagen continua en una matriz discreta de píxeles. [cite: 37, 38]
    

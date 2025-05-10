@@ -1,6 +1,6 @@
 #   Detección de puntos clave faciales
 
-Este cuaderno de Colab explora la detección de puntos clave faciales en imágenes. Los puntos clave faciales son puntos específicos que representan características importantes de un rostro, como los ojos, la nariz, la boca y la mandíbula.
+El cuaderno **[Landmarks Faciales](015%20-%20Landmarks%20Faciales.ipynb)** explora la detección de puntos clave faciales en imágenes. Los puntos clave faciales son puntos específicos que representan características importantes de un rostro, como los ojos, la nariz, la boca y la mandíbula.
 
 ##   ¿Qué son los puntos clave faciales?
 

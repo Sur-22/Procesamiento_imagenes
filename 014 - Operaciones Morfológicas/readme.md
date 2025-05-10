@@ -1,20 +1,20 @@
 #   Operaciones Morfológicas en Procesamiento de Imágenes
 
-Este cuaderno de Colab explora las **operaciones morfológicas** en procesamiento de imágenes[cite: 1]. Estas técnicas modifican la forma y estructura geométrica de los objetos en una imagen[cite: 1].
+Este cuaderno de Colab explora las **[operaciones morfológicas](014%20-%20Operaciones_Morfológicas.ipynb)** en procesamiento de imágenes. Estas técnicas modifican la forma y estructura geométrica de los objetos en una imagen.
 
 ##   Introducción Teórica
 
-Las operaciones morfológicas se basan en el uso de un **elemento estructurante** (también llamado kernel o máscara), que es una pequeña matriz (generalmente binaria) que se desliza sobre la imagen[cite: 1]. El elemento estructurante define una vecindad de píxeles, y la operación morfológica determina el valor del píxel central en la imagen de salida basándose en los píxeles de esa vecindad en la imagen de entrada[cite: 1, 2].
+Las operaciones morfológicas se basan en el uso de un **elemento estructurante** (también llamado kernel o máscara), que es una pequeña matriz (generalmente binaria) que se desliza sobre la imagen. El elemento estructurante define una vecindad de píxeles, y la operación morfológica determina el valor del píxel central en la imagen de salida basándose en los píxeles de esa vecindad en la imagen de entrada.
 
 Estas operaciones son útiles para:
 
-* Eliminar ruido[cite: 2].
-* Segmentar objetos[cite: 2].
-* Encontrar contornos[cite: 2].
-* Extraer esqueletos de objetos[cite: 2].
-* Medir y cuantificar formas[cite: 2].
+* Eliminar ruido.
+* Segmentar objetos.
+* Encontrar contornos.
+* Extraer esqueletos de objetos.
+* Medir y cuantificar formas.
 
-Este cuaderno trabaja principalmente con imágenes binarias (blanco y negro) y también muestra ejemplos en escala de grises[cite: 2].
+Este cuaderno trabaja principalmente con imágenes binarias (blanco y negro) y también muestra ejemplos en escala de grises.
 
 ##   Uso del Cuaderno
 

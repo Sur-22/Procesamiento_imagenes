@@ -4,24 +4,24 @@ Este repositorio contiene dos cuadernos de Colab que exploran el análisis facia
 
 ##   Contenido de los Cuadernos
 
-* **[017 - Lab Integrador 3.ipynb](017 - Lab Integrador 3.ipynb)**
+* **[017 - Laboratorio Integrador 3.ipynb](017%20-%20Lab%20Integrador%203.ipynb)**
 
-    * Este cuaderno se enfoca en el **análisis de expresiones faciales** a través del procesamiento de imágenes[cite: 52].
-    * Implementa metodologías para detectar puntos clave faciales (ojos, boca) y calcular métricas de expresión[cite: 52].
-    * Calcula el Eye Aspect Ratio (EAR) y el Mouth Aspect Ratio (MAR) para analizar la apertura de los ojos y la boca[cite: 52].
+    * Este cuaderno se enfoca en el **análisis de expresiones faciales** a través del procesamiento de imágenes.
+    * Implementa metodologías para detectar puntos clave faciales (ojos, boca) y calcular métricas de expresión.
+    * Calcula el Eye Aspect Ratio (EAR) y el Mouth Aspect Ratio (MAR) para analizar la apertura de los ojos y la boca.
 
-* **[017B - Deteccion de rostro y puntos faciales.ipynb](017B - Deteccion de rostro y puntos faciales.ipynb)**
+* **[017B - Deteccion de rostro y puntos faciales.ipynb](017B%20-%20Deteccion%20de%20rostro%20y%20puntos%20faciales.ipynb)**
 
-    * Este cuaderno se centra en la **detección de rostros y la identificación de puntos faciales** en videos[cite: 214].
-    * Puede incluir la detección de rostros en tiempo real y el seguimiento de puntos faciales a lo largo de un video[cite: 214].
-    * Utiliza dlib para la detección de puntos clave faciales, lo que permite una localización precisa de las características del rostro[cite: 214].
+    * Este cuaderno se centra en la **detección de rostros y la identificación de puntos faciales** en videos.
+    * Puede incluir la detección de rostros en tiempo real y el seguimiento de puntos faciales a lo largo de un video.
+    * Utiliza dlib para la detección de puntos clave faciales, lo que permite una localización precisa de las características del rostro.
 
 ##   Diferencias Clave
 
 Aunque ambos cuadernos trabajan con rostros, existen diferencias en su enfoque:
 
-* **Objetivo Principal**: 017 se centra en el análisis de expresiones (EAR, MAR), mientras que 017B puede enfocarse más en la detección y el seguimiento de puntos faciales[cite: 52, 214].
-* **Tipo de Entrada**: 017 Puede funcionar principalmente con imágenes fijas, mientras que el 017B está diseñado para funcionar con transmisiones de video.[cite: 52, 214].
+* **Objetivo Principal**: 017 se centra en el análisis de expresiones (EAR, MAR), mientras que 017B puede enfocarse más en la detección y el seguimiento de puntos faciales.
+* **Tipo de Entrada**: 017 Puede funcionar principalmente con imágenes fijas, mientras que el 017B está diseñado para funcionar con transmisiones de video.
 * **Funcionalidades**: 017B podría incluir funcionalidades adicionales como visualización de puntos faciales en video en tiempo real.
 
 ##   Uso de los Cuadernos
@@ -34,6 +34,6 @@ Aunque ambos cuadernos trabajan con rostros, existen diferencias en su enfoque:
 
 ##   Bibliotecas Utilizadas
 
-* **OpenCV (cv2)**: Biblioteca para procesamiento de imágenes y video[cite: 52, 214].
-* **dlib**: Biblioteca para visión artificial, utilizada para la detección de puntos clave faciales[cite: 52, 214].
-* **NumPy**: Biblioteca para operaciones numéricas[cite: 52].
+* **OpenCV (cv2)**: Biblioteca para procesamiento de imágenes y video.
+* **dlib**: Biblioteca para visión artificial, utilizada para la detección de puntos clave faciales.
+* **NumPy**: Biblioteca para operaciones numéricas.

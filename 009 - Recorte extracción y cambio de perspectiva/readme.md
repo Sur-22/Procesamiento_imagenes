@@ -4,24 +4,24 @@ Este repositorio contiene un cuaderno de Colab que demuestra cómo realizar oper
 
 ##   Contenido del Cuaderno
 
-El cuaderno `009 - Recorte,_extracción_y_cambio_de_perspectiva.ipynb` guía a través de los siguientes pasos:
+El cuaderno **[Recorte, extracción y cambio de perpectiva](009%20-%20Recorte_extracción_y_cambio_de_perspectiva.ipynb)** guía a través de los siguientes pasos:
 
-1.  **Importación de librerías**:  Se importan las bibliotecas necesarias: OpenCV (`cv2`), NumPy (`numpy`) y Matplotlib (`matplotlib.pyplot`)[cite: 1].
+1.  **Importación de librerías**:  Se importan las bibliotecas necesarias: OpenCV (`cv2`), NumPy (`numpy`) y Matplotlib (`matplotlib.pyplot`).
    
-2.  **Montaje de Google Drive**:  Se monta Google Drive para acceder a las imágenes (esto es específico de Colab)[cite: 17, 18, 19, 2].
+2.  **Montaje de Google Drive**:  Se monta Google Drive para acceder a las imágenes (esto es específico de Colab).
    
 3.  **Recorte, extracción y cambio de perspectiva**:
    
-    * Se identifican las cuatro esquinas de una carta en una imagen[cite: 20, 21, 3].
-    * Se calcula una matriz de transformación de perspectiva utilizando `cv2.getPerspectiveTransform`, especificando los puntos de origen y destino[cite: 22, 4].
+    * Se identifican las cuatro esquinas de una carta en una imagen.
+    * Se calcula una matriz de transformación de perspectiva utilizando `cv2.getPerspectiveTransform`, especificando los puntos de origen y destino.
    
 4.  **Aplicación de la transformación**:
    
-    * Se utiliza `cv2.warpPerspective` para aplicar la transformación y obtener una vista frontal de la carta[cite: 26, 27, 28].
+    * Se utiliza `cv2.warpPerspective` para aplicar la transformación y obtener una vista frontal de la carta.
    
 5.  **Visualización de resultados**:
    
-    * Se muestran la imagen original y la imagen transformada utilizando Matplotlib[cite: 23, 24, 25, 5].
+    * Se muestran la imagen original y la imagen transformada utilizando Matplotlib.
 
 ##   Uso del Cuaderno
 

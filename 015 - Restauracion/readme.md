@@ -6,21 +6,21 @@ Este repositorio contiene tres cuadernos de Colab que exploran los fundamentos d
 
 Los cuadernos incluidos en este repositorio demuestran diferentes aspectos y enfoques de la restauración de imágenes, específicamente la corrección del desenfoque.
 
-* **[001\_Restauracion.ipynb](001_Restauracion.ipynb)**
+* **[001 Restauración](001_Restauracion.ipynb)**
 
-    * Este cuaderno se centra en la restauración de imágenes que sufren de **desenfoque por movimiento horizontal uniforme**[cite: 1, 2, 3].
-    * Explica cómo se puede simular este tipo de degradación y cómo aplicar un filtro inverso simple para intentar restaurar la imagen[cite: 1].
+    * Este cuaderno se centra en la restauración de imágenes que sufren de **desenfoque por movimiento horizontal uniforme**.
+    * Explica cómo se puede simular este tipo de degradación y cómo aplicar un filtro inverso simple para intentar restaurar la imagen.
     * Incluye experimentación con diferentes imágenes para observar los resultados de la restauración.
 
-* **[002\_Restauracion.ipynb](002_Restauracion.ipynb)**
+* **[002 Restauración](002_Restauracion.ipynb)**
 
-    * Similar al primer cuaderno, este también aborda la **restauración de imágenes con desenfoque de movimiento**[cite: 1, 2, 3].
+    * Similar al primer cuaderno, este también aborda la **restauración de imágenes con desenfoque de movimiento**.
     * Puede presentar una implementación ligeramente diferente del filtro de restauración o utilizar una imagen de ejemplo distinta, permitiendo comparar los resultados.
     * Incluye una sección de experimentación para ajustar parámetros o probar con otras imágenes.
 
-* **[003\_Restauracion.ipynb](003_Restauracion.ipynb)**
+* **[003 Restauración](003_Restauracion.ipynb)**
 
-    * Este cuaderno continúa explorando la **restauración de imágenes borrosas**, posiblemente con un enfoque en un tipo diferente de desenfoque o una técnica de restauración más avanzada[cite: 1, 2, 3].
+    * Este cuaderno continúa explorando la **restauración de imágenes borrosas**, posiblemente con un enfoque en un tipo diferente de desenfoque o una técnica de restauración más avanzada.
     * Puede introducir conceptos adicionales como filtros de Wiener o regularización para mejorar los resultados de la restauración.
     * También anima a la experimentación para comprender mejor las fortalezas y limitaciones de las técnicas presentadas.
 

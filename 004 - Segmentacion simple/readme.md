@@ -4,7 +4,7 @@ Este repositorio contiene un cuaderno de Colab que demuestra un método básico 
 
 ## Contenido del Cuaderno
 
-El cuaderno `Segmentacion_simple.ipynb` presenta una introducción a la segmentación de imágenes mediante el uso de umbrales de color.  Los puntos clave que se exploran son:
+El cuaderno **[Segmentacion Simple](Segmentacion_simple.ipynb)** presenta una introducción a la segmentación de imágenes mediante el uso de umbrales de color.  Los puntos clave que se exploran son:
 
 1.  **Carga de Bibliotecas**:
     * Importa las bibliotecas necesarias: `NumPy` para manipulación de arrays, `OpenCV (cv2)` para leer y mostrar imágenes, `google.colab.patches` para mostrar imágenes en Colab, y `Matplotlib` para visualizaciones.

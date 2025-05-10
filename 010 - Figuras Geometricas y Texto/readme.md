@@ -4,7 +4,7 @@ Este repositorio contiene un cuaderno de Colab que demuestra cómo dibujar figur
 
 ## Contenido del Cuaderno
 
-El cuaderno `010 - Figuras_Geometricas_y_Texto.ipynb` cubre los siguientes temas:
+El cuaderno **[Figuras geometricas y texto](010%20-%20Figuras_Geometricas_y_Texto.ipynb)** cubre los siguientes temas:
 
 1.  **Dibujo de figuras geométricas**:
     * Aprende a dibujar líneas, círculos, rectángulos (vacíos y rellenos) y puntos sobre una imagen.

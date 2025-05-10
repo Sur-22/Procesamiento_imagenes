@@ -4,19 +4,19 @@ Este repositorio contiene un cuaderno de Colab que introduce los conceptos bási
 
 ## Contenido del Cuaderno
 
-El cuaderno `011 - Deteccion_Objetos.ipynb` cubre los siguientes temas:
+El cuaderno **[Detección de objetos](011%20-%20Deteccion_Objetos.ipynb)** cubre los siguientes temas:
 
 1.  **Detección de Caras (Face Detection)**
 
-    * Explica que la detección de caras es un caso específico de la detección de objetos[cite: 2].
-    * Introduce el algoritmo de Viola & Jones, que es eficiente y rápido para la detección de caras[cite: 2, 3].
-    * Describe el concepto de la ventana deslizante para entender cómo funciona la técnica de detección de objetos[cite: 3, 4, 5, 6].
-    * Explica las características de Haar, que son esenciales para el algoritmo de Viola & Jones[cite: 7, 8, 9].
-    * Menciona el uso de una "cascada" de clasificadores (AdaBoost) para mejorar la eficiencia de la detección[cite: 31, 32, 33, 34, 10, 11, 12].
+    * Explica que la detección de caras es un caso específico de la detección de objetos.
+    * Introduce el algoritmo de Viola & Jones, que es eficiente y rápido para la detección de caras.
+    * Describe el concepto de la ventana deslizante para entender cómo funciona la técnica de detección de objetos.
+    * Explica las características de Haar, que son esenciales para el algoritmo de Viola & Jones.
+    * Menciona el uso de una "cascada" de clasificadores (AdaBoost) para mejorar la eficiencia de la detección.
 
 2.  **Video Explicativo**
 
-    * Incluye un video que demuestra cómo el algoritmo descarta los recortes sin rostro y se enfoca en las regiones con rostros[cite: 34].
+    * Incluye un video que demuestra cómo el algoritmo descarta los recortes sin rostro y se enfoca en las regiones con rostros.
 
 ## Uso del Cuaderno
 

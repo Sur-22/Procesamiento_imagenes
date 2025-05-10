@@ -4,7 +4,7 @@ Este repositorio contiene un cuaderno de Colab con ejercicios prácticos para re
 
 ## Contenido del Cuaderno
 
-El cuaderno `Ejercicios_de_Procesamiento_Digital_de_Imágenes.ipynb` incluye una serie de ejercicios que abarcan diversos aspectos del procesamiento de imágenes, tales como:
+El cuaderno **[Procesamiento digital de imagenes](Ejercicios_de_Procesamiento_Digital_de_Imágenes.ipynb)** incluye una serie de ejercicios que abarcan diversos aspectos del procesamiento de imágenes, tales como:
 
 1.  **Operaciones básicas con imágenes**:
     * Carga y visualización de imágenes utilizando OpenCV (`cv2`) y Matplotlib (`matplotlib.pyplot`).
