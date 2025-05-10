@@ -6,31 +6,39 @@ Este repositorio reúne diversos notebooks desarrollados en Google Colab, pensad
 
 En este espacio encontrarás distintas carpetas, cada una con notebooks enfocados en diferentes temas del procesamiento digital de imágenes. A continuación, se describen brevemente:
 
-* **[001 - Caja oscura](Caja%20oscura/readme.md)**: Fundamentos ópticos de la imagen: cámara oscura y percepción visual.
+* **[001 - Caja oscura](001%20-%20Caja%20oscura/readme.md)**: Fundamentos ópticos de la imagen: cámara oscura y percepción visual.
    
-* **[002 - Color](Color/readme.md)**: Manipulación y análisis de los canales de color usando OpenCV.
+* **[002 - Color](002%20-%20Color/readme.md)**: Manipulación y análisis de los canales de color usando OpenCV.
    
-* **[003 - Muestreo y Cuantizacion](Muestreo%20y%20Cuantizacion/readme.md)**: Exploración de la resolución espacial y tonal de las imágenes mediante técnicas de OpenCV[cite: 36, 37, 38, 39, 40, 41].
+* **[003 - Muestreo y Cuantizacion](003%20-%20Muestreo%20y%20Cuantizacion/readme.md)**: Exploración de la resolución espacial y tonal de las imágenes mediante técnicas de OpenCV.
    
-* **[004 - Segmentacion simple](Segmentacion%20simple/readme.md)**: Aplicación de los conocimientos previos para aislar elementos de una imagen según su color.
+* **[004 - Segmentacion simple](004%20-%20Segmentacion%20simple/readme.md)**: Aplicación de los conocimientos previos para aislar elementos de una imagen según su color.
    
-* **[005 - Ejercicio de PDI](Ejercicio%20de%20PDI/readme.md)**: Práctica donde se combinan técnicas de color, muestreo, cuantización y segmentación.
+* **[005 - Ejercicio de PDI](005%20-%20Ejercicio%20de%20PDI/readme.md)**: Práctica donde se combinan técnicas de color, muestreo, cuantización y segmentación.
    
-* **[006 - Introduccion a los espacios de color](006_open_cv.ipynb)**:  Introducción a los espacios de color (RGB, Grayscale, HSV) y conversiones con OpenCV[cite: 1553, 1554, 1555].
+* **[006 - Introduccion a los espacios de color](006%20-%20Introduccion%20a%20los%20espacios%20de%20color/readme.md)**: Introducción a los espacios de color (RGB, Grayscale, HSV) y conversiones con OpenCV.
    
-* **[007 - Template Matching con OpenCV](007%20-%20Template_Matching_con_OpenCV.ipynb)**: Demuestra el uso de la técnica de "Template Matching" (Coincidencia de Plantilla) con la biblioteca OpenCV.
+* **[007 - Template Matching con OpenCV](007%20-%20Template%20Matching%20con%20OpenCV/readme.md)**: Demuestra el uso de la técnica de "Template Matching" (Coincidencia de Plantilla) con la biblioteca OpenCV.
    
-* **[008 - OpenCV propiedades](008%20-%20Open_CV_Propiedades.ipynb)**: Explora las propiedades fundamentales de las imágenes digitales y cómo acceder a ellas utilizando la biblioteca OpenCV[cite: 1631, 1632, 1633, 1634, 1635, 1636].
+* **[008 - OpenCV propiedades](008%20-%20Open%20CV%20Propiedades/readme.md)**: Explora las propiedades fundamentales de las imágenes digitales y cómo acceder a ellas utilizando la biblioteca OpenCV.
    
-* **[009 - Recorte, extracción y cambio de perspectiva](009%20-%20Recorte,_extracción_y_cambio_de_perspectiva.ipynb)**: Demuestra cómo realizar operaciones de recorte, extracción y cambio de perspectiva en imágenes utilizando OpenCV[cite: 1718, 1719].
+* **[009 - Recorte extracción y cambio de perspectiva](009%20-%20Recorte%20extracción%20y%20cambio%20de%20perspectiva/readme.md)**: Demuestra cómo realizar operaciones de recorte, extracción y cambio de perspectiva en imágenes utilizando OpenCV.
    
-* **[010 - Figuras Geometricas y Texto](010%20-%20Figuras_Geometricas_y_Texto.ipynb)**: Demuestra cómo dibujar figuras geométricas básicas y agregar texto a las imágenes utilizando OpenCV[cite: 1768].
+* **[010 - Figuras Geometricas y Texto](010%20-%20Figuras%20Geometricas%20y%20Texto/readme.md)**: Demuestra cómo dibujar figuras geométricas básicas y agregar texto a las imágenes utilizando OpenCV.
    
-* **[011 - Deteccion Objetos](011%20-%20Deteccion_Objetos.ipynb)**:  Introduce los conceptos básicos de la detección de objetos, centrándose en la detección de caras usando el algoritmo de Viola & Jones[cite: 1820].
+* **[011 - Deteccion Objetos](011%20-%20Deteccion%20Objetos/readme.md)**: Introduce los conceptos básicos de la detección de objetos, centrándose en la detección de caras usando el algoritmo de Viola & Jones.
    
-* **[012 - Mejora de color](012%20-%20Mejora_de_color.ipynb)**: Explora técnicas para mejorar o igualar la luminosidad y el contraste de las imágenes[cite: 1884, 1885, 1886].
+* **[012 - Mejora de color](012%20-%20Mejora%20de%20color/readme.md)**: Explora técnicas para mejorar o igualar la luminosidad y el contraste de las imágenes.
    
-* **[013 - Lab Integrador 2](001%20-%20LAB_Integrador_2.ipynb)**:  Cuaderno que aplica un conjunto de procedimientos de procesamiento de imágenes[cite: 307, 308, 309, 310]. (También existe una versión llamada 002 - LAB_Integrador_2 con una imagen distinta)[cite: 1462, 1463, 1464, 1465, 1466].
+* **[013 - Lab Integrador 2](001%20-%20Lab%20Integrador%202/readme.md)**: Cuaderno que aplica un conjunto de procedimientos de procesamiento de imágenes. (También existe una versión llamada 002 - LAB_Integrador_2 con una imagen distinta).
+   
+* **[014 - Operaciones Morfologicas](014%20-%20Operaciones%20Morfologicas/readme.md)**: Explora las operaciones morfológicas en procesamiento de imágenes, técnicas que modifican la forma y estructura geométrica de los objetos en una imagen.
+
+* **[015 - Restauracion](015%20-%20Restauracion/readme.md)**:  Cuadernos que exploran los fundamentos de la restauración de imágenes, centrándose en la reducción del desenfoque.
+   
+* **[016 - Landmarkes Faciales](016%20-%20Landmarkes%20Faciales/readme.md)**: Cuaderno que explora la detección de puntos clave faciales en imágenes.
+
+* **[017 - Lab Integrador 3](017%20-%20Lab%20Integrador%203/readme.md)**: Cuaderno que se centra en el análisis de expresiones faciales a través del procesamiento de imágenes.
 
 ##   ¿Cómo usar los Notebooks en Google Colab?
 
