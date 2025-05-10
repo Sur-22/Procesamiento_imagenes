@@ -4,7 +4,7 @@ Este repositorio contiene un cuaderno de Colab que introduce los espacios de col
 
 ##   Contenido del Cuaderno
 
-El cuaderno **[OpenCV](006_open_cv.ipynb*)** cubre los siguientes temas:
+El cuaderno **[OpenCV](006%20-%20open_cv.ipynb)** cubre los siguientes temas:
 
 1.  **Introducción a los Espacios de Color**[cite: 18]:
     * **RGB**:  Describe cómo este espacio de color representa las imágenes como una combinación de rojo, verde y azul.

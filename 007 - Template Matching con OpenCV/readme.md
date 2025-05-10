@@ -4,7 +4,7 @@ Este repositorio contiene un cuaderno de Colab que demuestra el uso de la técni
 
 ## Contenido del Cuaderno
 
-El cuaderno **[Template Matching con OpenCV](Template_Matching_con_OpenCV.ipynb)** explica cómo encontrar la ubicación de una imagen "plantilla" dentro de una imagen más grande.
+El cuaderno **[Template Matching con OpenCV](007%20-%20Template_Matching_con_OpenCV.ipynb)** explica cómo encontrar la ubicación de una imagen "plantilla" dentro de una imagen más grande.
 
 Los pasos principales que se demuestran son:
 

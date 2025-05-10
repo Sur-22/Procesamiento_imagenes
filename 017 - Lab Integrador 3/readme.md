@@ -4,13 +4,13 @@ Este repositorio contiene dos cuadernos de Colab que exploran el análisis facia
 
 ##   Contenido de los Cuadernos
 
-* **[017 - Laboratorio Integrador 3.ipynb](017%20-%20Lab%20Integrador%203.ipynb)**
+* **[017 - Laboratorio Integrador 3](017%20-%20Lab%20Integrador%203.ipynb)**
 
     * Este cuaderno se enfoca en el **análisis de expresiones faciales** a través del procesamiento de imágenes.
     * Implementa metodologías para detectar puntos clave faciales (ojos, boca) y calcular métricas de expresión.
     * Calcula el Eye Aspect Ratio (EAR) y el Mouth Aspect Ratio (MAR) para analizar la apertura de los ojos y la boca.
 
-* **[017B - Deteccion de rostro y puntos faciales.ipynb](017B%20-%20Deteccion%20de%20rostro%20y%20puntos%20faciales.ipynb)**
+* **[017B - Deteccion de rostro y puntos faciales](017B%20-%20Deteccion%20de%20rostro%20y%20puntos%20faciales.ipynb)**
 
     * Este cuaderno se centra en la **detección de rostros y la identificación de puntos faciales** en videos.
     * Puede incluir la detección de rostros en tiempo real y el seguimiento de puntos faciales a lo largo de un video.
