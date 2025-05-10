@@ -20,7 +20,7 @@ En este espacio encontrarás distintas carpetas, cada una con notebooks enfocado
    
 * **[007 - Template Matching con OpenCV](007%20-%20Template%20Matching%20con%20OpenCV/readme.md)**: Demuestra el uso de la técnica de "Template Matching" (Coincidencia de Plantilla) con la biblioteca OpenCV.
    
-* **[008 - OpenCV propiedades](008%20-%20Open%20CV%20Propiedades/readme.md)**: Explora las propiedades fundamentales de las imágenes digitales y cómo acceder a ellas utilizando la biblioteca OpenCV.
+* **[008 - OpenCV propiedades](008%20-%20OpenCV%20propiedades/readme.md)**: Explora las propiedades fundamentales de las imágenes digitales y cómo acceder a ellas utilizando la biblioteca OpenCV.
    
 * **[009 - Recorte extracción y cambio de perspectiva](009%20-%20Recorte%20extracción%20y%20cambio%20de%20perspectiva/readme.md)**: Demuestra cómo realizar operaciones de recorte, extracción y cambio de perspectiva en imágenes utilizando OpenCV.
    
@@ -30,7 +30,7 @@ En este espacio encontrarás distintas carpetas, cada una con notebooks enfocado
    
 * **[012 - Mejora de color](012%20-%20Mejora%20de%20color/readme.md)**: Explora técnicas para mejorar o igualar la luminosidad y el contraste de las imágenes.
    
-* **[013 - Lab Integrador 2](001%20-%20Lab%20Integrador%202/readme.md)**: Cuaderno que aplica un conjunto de procedimientos de procesamiento de imágenes. (También existe una versión llamada 002 - LAB_Integrador_2 con una imagen distinta).
+* **[013 - Lab Integrador 2](013%20-%20Lab%20Integrador%202/readme.md)**: Cuaderno que aplica un conjunto de procedimientos de procesamiento de imágenes. (También existe una versión llamada 002 - LAB_Integrador_2 con una imagen distinta).
    
 * **[014 - Operaciones Morfologicas](014%20-%20Operaciones%20Morfologicas/readme.md)**: Explora las operaciones morfológicas en procesamiento de imágenes, técnicas que modifican la forma y estructura geométrica de los objetos en una imagen.
 
