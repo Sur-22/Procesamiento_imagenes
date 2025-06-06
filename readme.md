@@ -46,7 +46,7 @@ En este espacio encontrarás distintas carpetas, cada una con notebooks enfocado
 
 * **[020 - Transferencia de Aprendizaje](020%20-%20Transferencia%20de%20Aprendizaje/readme.md)** Cuaderno que se centra en modelos preentrenados en grandes datasets (como ImageNet) para mejorar el rendimiento en conjuntos de datos más pequeños y específicos.
 
-* **[021 - Modelo VGG16 preentrenado](021%20-%20Modelo%20VGG16%20preentrenado/readme.md)** Cuaderno que se centra en la clasificación de imágenes mediante la técnica de transferencia de aprendizaje. 
+* **[021 - Modelo VGG16](021%20-%20Modelo%20VGG16/readme.md)** Cuaderno que se centra en la clasificación de imágenes mediante la técnica de transferencia de aprendizaje. 
 
 * **[022 - ResNet18](022%20-%20ResNet18/readme.md)** Cuaderno que se centra en tareas de clasificación de imágenes utilizando la técnica de transferencia de aprendizaje con PyTorch.
 
