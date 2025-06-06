@@ -40,11 +40,11 @@ En este espacio encontrarás distintas carpetas, cada una con notebooks enfocado
 
 * **[017 - Lab Integrador 3](017%20-%20Lab%20Integrador%203/readme.md)**: Cuaderno que se centra en el análisis de expresiones faciales a través del procesamiento de imágenes.
 
-* **[018 - Clasificación](018%20-%20Clasificacion/readme.md)** Cuaderno que se centra en explorar la construcción, entrenamiento y evaluación de una red neuronal para reconocer letras escritas a mano.
+* **[018 - Clasificacion de Letras Escritas a Mano](018%20-%20Clasificacion%20de%20Letras%20Escritas%20a%20Mano/readme.md)** Cuaderno que se centra en explorar la construcción, entrenamiento y evaluación de una red neuronal para reconocer letras escritas a mano.
 
-* **[019 - Redes Neuronales convolucionales](019%20-%201%20-%20Redes%20Neuronales%20Convolucionales/readme.md)** Cuaderno que se centra en la Visualización y Modelado con Redes Convolucionales.
+* **[019 - Redes Neuronales Convolucionales ](019%20-%20Redes%20Neuronales%20Convolucionales/readme.md)** Cuaderno que se centra en la Visualización y Modelado con Redes Convolucionales.
 
-* **[020 - Transferencia de Aprendizaje](020%20-%20Transferencia%20de%20Aprendizaje/readme.md)** Cuaderno que se centra en modelos preentrenados en grandes datasets (como ImageNet) para mejorar el rendimiento en conjuntos de datos más pequeños y específicos.
+* **[020 - Transferencia de aprendizaje](020%20-%20Transferencia%20de%20aprendizaje/readme.md)** Cuaderno que se centra en modelos preentrenados en grandes datasets (como ImageNet) para mejorar el rendimiento en conjuntos de datos más pequeños y específicos.
 
 * **[021 - Modelo VGG16](021%20-%20Modelo%20VGG16/readme.md)** Cuaderno que se centra en la clasificación de imágenes mediante la técnica de transferencia de aprendizaje. 
 
