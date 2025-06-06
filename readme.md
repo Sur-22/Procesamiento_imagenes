@@ -42,7 +42,7 @@ En este espacio encontrarás distintas carpetas, cada una con notebooks enfocado
 
 * **[018 - Clasificacion de Letras Escritas a Mano](018%20-%20Clasificacion%20de%20Letras%20Escritas%20a%20Mano/readme.md)** Cuaderno que se centra en explorar la construcción, entrenamiento y evaluación de una red neuronal para reconocer letras escritas a mano.
 
-* **[019 - Redes Neuronales Convolucionales ](019%20-%20Redes%20Neuronales%20Convolucionales/readme.md)** Cuaderno que se centra en la Visualización y Modelado con Redes Convolucionales.
+* **[019 - Redes Neuronales Convolucionales](019%20-%20Redes%20Neuronales%20Convolucionales/readme.md)** Cuaderno que se centra en la Visualización y Modelado con Redes Convolucionales.
 
 * **[020 - Transferencia de aprendizaje](020%20-%20Transferencia%20de%20aprendizaje/readme.md)** Cuaderno que se centra en modelos preentrenados en grandes datasets (como ImageNet) para mejorar el rendimiento en conjuntos de datos más pequeños y específicos.
 
