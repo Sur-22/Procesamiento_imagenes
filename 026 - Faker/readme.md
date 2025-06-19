@@ -1,6 +1,6 @@
 # Sesgo Algorítmico y Metadata: Generación de Datos Sintéticos con Faker
 
-Este cuaderno de Colab titulado **[026 - faker.ipynb](026%20-%20faker.ipynb)** explora, mediante un enfoque práctico, cómo surgen los **sesgos algorítmicos** en datasets y la importancia de la **metadata** para su gobernanza. Utiliza la librería `Faker` para crear datos sintéticos de empleados y documenta su estructura y sesgos en una metadata detallada.
+Este cuaderno de Colab titulado **[026 - faker](026%20-%20faker.ipynb)** explora, mediante un enfoque práctico, cómo surgen los **sesgos algorítmicos** en datasets y la importancia de la **metadata** para su gobernanza. Utiliza la librería `Faker` para crear datos sintéticos de empleados y documenta su estructura y sesgos en una metadata detallada.
 
 ## Introducción Teórica
 

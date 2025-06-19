@@ -1,6 +1,6 @@
 # Censura Facial en Imágenes y Videos con Deep Learning
 
-Este cuaderno de Colab titulado **[Censura facial en imagenes y videos.ipynb](Censura_facial_en_imagenes_y_videos.ipynb)** implementa un sistema avanzado de detección y **censura facial automática** en imágenes y videos. Utiliza modelos preentrenados para reconocimiento facial y una interfaz interactiva basada en **Gradio**.
+Este cuaderno de Colab titulado **[Censura facial en imagenes y videos](Censura_facial_en_imagenes_y_videos.ipynb)** implementa un sistema avanzado de detección y **censura facial automática** en imágenes y videos. Utiliza modelos preentrenados para reconocimiento facial y una interfaz interactiva basada en **Gradio**.
 
 ## Introducción Técnica
 

@@ -4,7 +4,7 @@ Este repositorio contiene cuadernos de Google Colab enfocados en el procesamient
 
 ## Índice de Cuadernos
 
-* [**025 - Img caption V1.ipynb**](025%20-%20Img%20caption%20V1.ipynb) : Sistema de Generación Automática de Descripciones de Imágenes con BLIP-2 y MarianMT.
+* [**025 - Img caption V1**](025%20-%20Img%20caption%20V1.ipynb) : Sistema de Generación Automática de Descripciones de Imágenes con BLIP-2 y MarianMT.
 
 ---
 
