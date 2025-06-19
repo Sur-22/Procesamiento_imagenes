@@ -1,20 +1,4 @@
-# Procesamiento Digital de Imágenes - 2025
-
-### Estudiante: Leandro Gomez
-
-## Breve Descripción de la Materia:
-
-El Procesamiento Digital de Imágenes (PDI) es una disciplina fundamental dentro del campo del Análisis de Datos e IA, que se enfoca en la manipulación y análisis de imágenes digitales para extraer información útil y automatizar tareas visuales. Las técnicas de PDI son esenciales para una amplia gama de aplicaciones, desde la visión por computadora hasta el diagnóstico médico.
-
-## Aspectos más interesantes del curso
-
-Durante la cursada, los contenidos fueron diversos y prácticos, aunque los aspectos que más me gustaron y motivaron a seguir profundizando fueron:
-
-- **Landmarks Faciales**: La detección de puntos clave en rostros (ojos, nariz, boca, etc.) abre la puerta a múltiples aplicaciones, como reconocimiento facial, análisis de emociones. Poder trabajar con estos puntos y ver cómo se comportan en tiempo real fue una experiencia reveladora.
-
-- **Redes Neuronales Convolucionales (CNN)**: Explorar cómo las CNN pueden clasificar imágenes, detectar patrones y aprender características visuales automáticamente me mostró el verdadero potencial del aprendizaje profundo en visión por computadora. Me resultó fascinante ver cómo se combinan matemáticas, programación y datos para resolver tareas complejas con alto nivel de precisión.
-
-##   Colección de Notebooks para Procesamiento de Imágenes – IFTS24
+#   Colección de Notebooks para Procesamiento de Imágenes – IFTS24
 
 Este repositorio reúne diversos notebooks desarrollados en Google Colab, pensados para acompañar las actividades prácticas de la asignatura Procesamiento de Imágenes dictada en el IFTS24.
 
@@ -66,16 +50,6 @@ En este espacio encontrarás distintas carpetas, cada una con notebooks enfocado
 
 * **[022 - ResNet18](022%20-%20ResNet18/readme.md)** Cuaderno que se centra en tareas de clasificación de imágenes utilizando la técnica de transferencia de aprendizaje con PyTorch.
 
-* **[023 - Gradio](023%20-%20Gradio/readme.md)** Cuaderno que se centra en la generación de una interfaz grafica.
-
-* **[024 - Generador Automático de Descripciones de Imágenes](024%20-%20Generador%20Automático%20de%20Descripciones%20de%20Imágenes/readme.md)** Cuaderno que se centra en la descripción de imagenes.
-
-* **[025 - Generador Automático de Descripciones de Imágenes V1](025%20-%20Generador%20Automático%20de%20Descripciones%20de%20Imágenes%20V1/readme.md)** Cuaderno que se centra en la descrición de las imagenes con modelos más avanzados.
-
-* **[026 - Faker](026%20-%20Faker/readme.md)** Cuaderno que se centra en la generación de datos sintéticos
-
-* **[027 - Proyecto Final](027%20-%20Proyecto%20Final/readme.md)** Sistema de censura facial en imágenes y videos.
-
 ##   ¿Cómo usar los Notebooks en Google Colab?
 
 Sigue estos pasos para trabajar con los notebooks:
@@ -92,4 +66,4 @@ Sigue estos pasos para trabajar con los notebooks:
 
 ##   Importante
 
-Este material se provee con fines educativos. El autor del repositorio no se responsabiliza por el uso incorrecto o problemas derivados del uso de los notebooks.
+Ante cualquier inconveniente con los notebook es bajo su responsabilidad, la persona que lo expone no se hace responsable por inconvenientes que pueda tener.
