@@ -29,8 +29,8 @@ Gradio se ha consolidado como una herramienta indispensable en el ecosistema de 
 
 ## Índice de Cuadernos
 
-* [023 - PDI con Gradio.ipynb](023%20-%20PDI%20con%20Gradio.ipynb)
-* [023 - SD GradioApp.ipynb](023%20-%20SD%20GradioApp.ipynb)
+* [023 - PDI con Gradio](023%20-%20PDI%20con%20Gradio.ipynb)
+* [023 - SD GradioApp](023%20-%20SD%20GradioApp.ipynb)
 
 ## Instrucciones de Uso
 
