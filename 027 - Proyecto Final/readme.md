@@ -57,4 +57,4 @@ La anonimización se realiza con una **máscara elíptica** sobre la región fac
 
 ---
 
-> Este código requiere acceso a GPU para funcionar de forma fluida, especialmente en videos.
+> Este código requiere acceso a GPU para funcionar de forma fluida, especialmente en videos. 
